@@ -1,5 +1,6 @@
-**💳 Online Payment Fraud Detection**
-  This project focuses on detecting fraudulent online payment transactions using machine learning. The dataset is analyzed to identify patterns that distinguish legitimate transactions from fraudulent ones.
+# 💳 Online Payment Fraud Detection
+
+This project focuses on detecting fraudulent online payment transactions using machine learning. The dataset is analyzed to identify patterns that distinguish legitimate transactions from fraudulent ones.
 
 **📌 Project Description**
     Load and explore an online payment transaction dataset.
